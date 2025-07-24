@@ -1,0 +1,7 @@
+export {default as Hero} from './hero'
+export {default as About} from './about'
+export {default as Service} from './service'
+export {default as WhyChoosingUs} from './why-choosing'
+export {default as Quote} from './quote'
+export {default as Partners} from './partners'
+export {default as Contact} from './contact'

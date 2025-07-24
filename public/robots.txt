@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /private/
+
+Sitemap: https://carinsurancedxb.com/sitemap.xml
